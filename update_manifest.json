@@ -1,7 +1,7 @@
 {
-  "version_code": 6,
-  "release_notes": "Ana ekrana uygulama sürümü eklendi.",
-  "version_name": "0.2.4",
   "mandatory": true,
-  "apk_url": "https://github.com/deepseekturkey-rgb/kaptan-benim-releases/releases/download/v0.2.4/kaptan-benim.apk"
+  "version_code": 7,
+  "version_name": "0.2.5",
+  "release_notes": "Güncelleme penceresindeki Android dokunma sorunu düzeltildi.",
+  "apk_url": "https://github.com/deepseekturkey-rgb/kaptan-benim-releases/releases/download/v0.2.5/kaptan-benim.apk"
 }

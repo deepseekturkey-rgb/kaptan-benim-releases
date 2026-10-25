@@ -1,9 +1,9 @@
 {
-  "version_code": 9,
-  "apk_size": 215781025,
-  "sha256": "dfc843c4a973e83089b2c53d20ee221213cd0cd2720f4db97c42ed93173a0428",
-  "version_name": "0.2.7",
+  "version_name": "0.2.8",
+  "release_notes": "İndirme yüzdesi, MB takibi ve Android kurulum paneli; güncel sürüm kontrolü yenilendi.",
+  "apk_url": "https://github.com/deepseekturkey-rgb/kaptan-benim-releases/releases/download/v0.2.8/kaptan-benim.apk",
+  "sha256": "ba68e00edaba612fd82b0728bdf1f197de11ba5cfc24febfb8717a79713e859a",
   "mandatory": true,
-  "release_notes": "İndirme yüzdesi ve MB göstergesi eklendi; güncelleme paneli ve Android kurulum akışı yenilendi.",
-  "apk_url": "https://github.com/deepseekturkey-rgb/kaptan-benim-releases/releases/download/v0.2.7/kaptan-benim.apk"
+  "version_code": 10,
+  "apk_size": 215781689
 }

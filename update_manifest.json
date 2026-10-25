@@ -1,9 +1,9 @@
 {
-  "version_code": 12,
-  "apk_size": 215801849,
+  "version_code": 13,
   "mandatory": true,
-  "release_notes": "Yapılan değişiklikler",
-  "apk_url": "https://github.com/deepseekturkey-rgb/kaptan-benim-releases/releases/download/v0.2.10/kaptan-benim.apk",
-  "version_name": "0.2.10",
-  "sha256": "bb6b8f3058f89ad8c9f97b0c3f95f7662ae77714faaa63dc6a990c67eed111f4"
+  "apk_url": "https://github.com/deepseekturkey-rgb/kaptan-benim-releases/releases/download/v0.2.11/kaptan-benim.apk",
+  "release_notes": "Orta saha, forvet ve antrenman editöründe kaydedilen yeni dizilimler eklendi.",
+  "sha256": "28939bc582398e60a651758ff990aac0924241e516e8fbb96b04612d75dba533",
+  "apk_size": 215801857,
+  "version_name": "0.2.11"
 }

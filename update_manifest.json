@@ -1,7 +1,7 @@
 {
-  "version_code": 5,
+  "version_code": 6,
+  "release_notes": "Ana ekrana uygulama sürümü eklendi.",
+  "version_name": "0.2.4",
   "mandatory": true,
-  "version_name": "0.2.3",
-  "apk_url": "https://github.com/deepseekturkey-rgb/kaptan-benim-releases/releases/download/v0.2.3/kaptan-benim.apk",
-  "release_notes": "Yeni kaptan arması uygulama simgesi eklendi."
+  "apk_url": "https://github.com/deepseekturkey-rgb/kaptan-benim-releases/releases/download/v0.2.4/kaptan-benim.apk"
 }

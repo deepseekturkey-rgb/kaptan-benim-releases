@@ -1,9 +1,9 @@
 {
-  "apk_url": "https://github.com/deepseekturkey-rgb/kaptan-benim-releases/releases/download/v0.2.9/kaptan-benim.apk",
-  "apk_size": 215798713,
-  "version_code": 11,
+  "version_code": 12,
+  "apk_size": 215801849,
   "mandatory": true,
-  "version_name": "0.2.9",
-  "sha256": "b34c6f57dc18d42c6c1cf2252aa637ef900fa4a372a0a6d73dd598b132a73a16",
-  "release_notes": "Uygulama simgesi kırmızı ve altın renkli kaptan armasıyla yenilendi."
+  "release_notes": "Yapılan değişiklikler",
+  "apk_url": "https://github.com/deepseekturkey-rgb/kaptan-benim-releases/releases/download/v0.2.10/kaptan-benim.apk",
+  "version_name": "0.2.10",
+  "sha256": "bb6b8f3058f89ad8c9f97b0c3f95f7662ae77714faaa63dc6a990c67eed111f4"
 }

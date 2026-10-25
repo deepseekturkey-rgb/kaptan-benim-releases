@@ -1,9 +1,9 @@
 {
-  "version_name": "0.2.8",
-  "release_notes": "İndirme yüzdesi, MB takibi ve Android kurulum paneli; güncel sürüm kontrolü yenilendi.",
-  "apk_url": "https://github.com/deepseekturkey-rgb/kaptan-benim-releases/releases/download/v0.2.8/kaptan-benim.apk",
-  "sha256": "ba68e00edaba612fd82b0728bdf1f197de11ba5cfc24febfb8717a79713e859a",
+  "apk_url": "https://github.com/deepseekturkey-rgb/kaptan-benim-releases/releases/download/v0.2.9/kaptan-benim.apk",
+  "apk_size": 215798713,
+  "version_code": 11,
   "mandatory": true,
-  "version_code": 10,
-  "apk_size": 215781689
+  "version_name": "0.2.9",
+  "sha256": "b34c6f57dc18d42c6c1cf2252aa637ef900fa4a372a0a6d73dd598b132a73a16",
+  "release_notes": "Uygulama simgesi kırmızı ve altın renkli kaptan armasıyla yenilendi."
 }

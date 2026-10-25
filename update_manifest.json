@@ -1,9 +1,9 @@
 {
-  "sha256": "ed8ef3749cee0791f1bed96cb61f97255630e64bc4fe9631164d0897e7450581",
-  "version_code": 14,
+  "apk_size": 215807357,
   "release_notes": "Editör üzerinden kaydedilen maç ve antrenman ayarları eklendi.",
-  "apk_size": 215806241,
-  "version_name": "0.2.12",
-  "apk_url": "https://github.com/deepseekturkey-rgb/kaptan-benim-releases/releases/download/v0.2.12/kaptan-benim.apk",
-  "mandatory": true
+  "mandatory": true,
+  "version_code": 15,
+  "sha256": "39b6706d089d6c364e9292f7defae1f5af52991a913b76dbb4a0d57c16df1193",
+  "version_name": "0.2.13",
+  "apk_url": "https://github.com/deepseekturkey-rgb/kaptan-benim-releases/releases/download/v0.2.13/kaptan-benim.apk"
 }

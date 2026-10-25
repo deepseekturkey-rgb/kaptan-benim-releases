@@ -1,9 +1,9 @@
 {
-  "apk_url": "https://github.com/deepseekturkey-rgb/kaptan-benim-releases/releases/download/v0.2.14/kaptan-benim.apk",
-  "version_name": "0.2.14",
-  "version_code": 16,
+  "apk_url": "https://github.com/deepseekturkey-rgb/kaptan-benim-releases/releases/download/v0.2.15/kaptan-benim.apk",
+  "release_notes": "Uygulama simgesi mavi stadyum ve futbolcu görseliyle yenilendi.",
+  "version_code": 17,
+  "apk_size": 220866995,
+  "version_name": "0.2.15",
   "mandatory": true,
-  "apk_size": 215807041,
-  "sha256": "6aede96df7b1d3a909f45881bde00c0b6e5329c3c70f1e5ce1c450525c8b3ef5",
-  "release_notes": "Editör üzerinden kaydedilen maç ve antrenman ayarları eklendi."
+  "sha256": "76654ed42d2ad422876cf757c067d5d5557f392dfa6d8db2f53ef9ecf0ca9500"
 }

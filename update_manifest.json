@@ -1,7 +1,7 @@
 {
-  "version_code": 2,
-  "version_name": "0.2.0",
-  "apk_url": "https://github.com/deepseekturkey-rgb/kaptan-benim-releases/releases/download/v0.2.0/kaptan-benim.apk",
-  "release_notes": "Ana ekrana dönüş ve ev simgesi gezinmesi düzeltildi.",
+  "apk_url": "https://github.com/deepseekturkey-rgb/kaptan-benim-releases/releases/download/v0.2.1/kaptan-benim.apk",
+  "version_code": 3,
+  "release_notes": "Test güncellemesi: yeni uygulama simgesi.",
+  "version_name": "0.2.1",
   "mandatory": true
 }

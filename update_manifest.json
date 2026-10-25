@@ -1,7 +1,7 @@
 {
-  "release_notes": "Güncelleme penceresindeki dokunma sorunu düzeltildi.",
+  "version_code": 5,
   "mandatory": true,
-  "version_name": "0.2.2",
-  "apk_url": "https://github.com/deepseekturkey-rgb/kaptan-benim-releases/releases/download/v0.2.2/kaptan-benim.apk",
-  "version_code": 4
+  "version_name": "0.2.3",
+  "apk_url": "https://github.com/deepseekturkey-rgb/kaptan-benim-releases/releases/download/v0.2.3/kaptan-benim.apk",
+  "release_notes": "Yeni kaptan arması uygulama simgesi eklendi."
 }

@@ -1,9 +1,9 @@
 {
-  "version_code": 24,
-  "sha256": "0e9211bfd24673d7d5f362304210038db15d8e373ac85a489fcb985332c91515",
-  "apk_url": "https://github.com/deepseekturkey-rgb/kaptan-benim-releases/releases/download/v0.2.22/kaptan-benim.apk",
-  "release_notes": "Transfer sistemi eklendi: sezon ortası teklifler ve sezon sonunda ülke/lig/kulüp seçimi.\nBüyük/küçük kartlarıyla maaş ve prim pazarlığı, menajer imza parası ve transfer geçmişi eklendi.\nTransfer sonrası fikstür, yabancı kulüp kayıtları ve sözleşme bekleme süreleri düzeltildi.\nTekrar imza parası alma ve kartları yeniden çekme açıkları kapatıldı.\nNSS kariyer, antrenman, enerji ve ilişki iyileştirmeleri güncel oyun koduna taşındı.",
-  "version_name": "0.2.22",
+  "version_name": "0.2.23",
+  "apk_url": "https://github.com/deepseekturkey-rgb/kaptan-benim-releases/releases/download/v0.2.23/kaptan-benim.apk",
+  "release_notes": "Lig yükselme ve küme düşme sistemi eklendi: 2. ligde ilk iki doğrudan çıkar, üst ligin son üç takımı düşer.\n3–6. sıralar için oynanabilir tek maçlı play-off yarı finalleri ve final eklendi; kazanan üçüncü takım olarak yükselir.\nBeraberlikte penaltı sonucu, sezon raporu ve geçmiş play-off sonuçları eklendi.\nLig değişiklikleri kariyere özel kaydedilir; kayıt yükleme, transferler ve sonraki sezon fikstürüyle birlikte korunur.",
+  "apk_size": 220930234,
+  "version_code": 25,
   "mandatory": true,
-  "apk_size": 220920581
+  "sha256": "0398e2f05dca3c5428ee3867718b13cd6a3c9c898a995c1b58b2c1fe21ddd6c7"
 }

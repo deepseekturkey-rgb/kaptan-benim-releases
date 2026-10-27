@@ -1,9 +1,9 @@
 {
-  "version_code": 30,
-  "sha256": "c28817096c231cc092d7c807b4df51ee835bb15e12a50535049f58207f53a0e3",
-  "apk_size": 225611160,
-  "version_name": "0.2.28",
   "mandatory": true,
+  "apk_size": 225611176,
   "release_notes": "Araç kataloğu 10, mülk kataloğu 10 ve eşya kataloğu 12 ürüne genişletildi; ürünler ucuzdan pahalıya sıralandı.\nSpor araba, lüks SUV, makam aracı, süper spor, formula yarış aracı ve yat; loft, villa, malikâne, penthouse, plaza ve şato eklendi.\nAkıllı saat, kamera, drone, lüks saat, piyano, ev sineması ve sanat koleksiyonu eklendi; yeni ürün görselleri hazırlandı.\nKataloglara sayfalama ve ürün başına lüks puanı eklendi. Lüks artık sahip olunan benzersiz ürünlerin değerinden hesaplanıyor.\nOnline odada, maçta ve rakip profillerinde lüks puanı ile araç/mülk/eşya sayıları gösteriliyor.",
-  "apk_url": "https://github.com/deepseekturkey-rgb/kaptan-benim-releases/releases/download/v0.2.28/kaptan-benim.apk"
+  "version_name": "0.2.29",
+  "apk_url": "https://github.com/deepseekturkey-rgb/kaptan-benim-releases/releases/download/v0.2.29/kaptan-benim.apk",
+  "version_code": 31,
+  "sha256": "61df2674c6aaee5255c274ef0a87c4cb7e66aec75ee6ddc6b2bac3b56565b10b"
 }

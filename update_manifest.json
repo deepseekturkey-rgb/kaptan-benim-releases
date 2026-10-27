@@ -1,9 +1,9 @@
 {
-  "sha256": "2584190ecd659e6923898f03b5e4d74236eacc79737ef7ad707e44084843de7d",
-  "apk_size": 220869359,
-  "release_notes": "Yayın notları güncelleme geçmişine otomatik ekleniyor.\nEski sürümlerin notları eklendi; geçmiş paneli sayfalı olarak düzenlendi.",
-  "version_name": "0.2.21",
+  "version_code": 24,
+  "sha256": "0e9211bfd24673d7d5f362304210038db15d8e373ac85a489fcb985332c91515",
+  "apk_url": "https://github.com/deepseekturkey-rgb/kaptan-benim-releases/releases/download/v0.2.22/kaptan-benim.apk",
+  "release_notes": "Transfer sistemi eklendi: sezon ortası teklifler ve sezon sonunda ülke/lig/kulüp seçimi.\nBüyük/küçük kartlarıyla maaş ve prim pazarlığı, menajer imza parası ve transfer geçmişi eklendi.\nTransfer sonrası fikstür, yabancı kulüp kayıtları ve sözleşme bekleme süreleri düzeltildi.\nTekrar imza parası alma ve kartları yeniden çekme açıkları kapatıldı.\nNSS kariyer, antrenman, enerji ve ilişki iyileştirmeleri güncel oyun koduna taşındı.",
+  "version_name": "0.2.22",
   "mandatory": true,
-  "version_code": 23,
-  "apk_url": "https://github.com/deepseekturkey-rgb/kaptan-benim-releases/releases/download/v0.2.21/kaptan-benim.apk"
+  "apk_size": 220920581
 }

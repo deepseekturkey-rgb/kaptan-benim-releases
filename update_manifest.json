@@ -1,9 +1,9 @@
 {
-  "apk_url": "https://github.com/deepseekturkey-rgb/kaptan-benim-releases/releases/download/v0.2.20/kaptan-benim.apk",
-  "mandatory": true,
-  "version_code": 22,
+  "sha256": "2584190ecd659e6923898f03b5e4d74236eacc79737ef7ad707e44084843de7d",
+  "apk_size": 220869359,
   "release_notes": "Yayın notları güncelleme geçmişine otomatik ekleniyor.\nEski sürümlerin notları eklendi; geçmiş paneli sayfalı olarak düzenlendi.",
-  "version_name": "0.2.20",
-  "sha256": "0da4d5b666f9c13ef6bd0daa150e30e401575f39876bd9dfe1e0151b81802af4",
-  "apk_size": 220869307
+  "version_name": "0.2.21",
+  "mandatory": true,
+  "version_code": 23,
+  "apk_url": "https://github.com/deepseekturkey-rgb/kaptan-benim-releases/releases/download/v0.2.21/kaptan-benim.apk"
 }

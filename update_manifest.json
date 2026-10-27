@@ -1,9 +1,9 @@
 {
-  "sha256": "19a4ace3434a69c861e764ab7c8c6e507bffdef41504f8ecbe41abaa662dcc54",
-  "version_code": 26,
-  "apk_size": 222579563,
-  "apk_url": "https://github.com/deepseekturkey-rgb/kaptan-benim-releases/releases/download/v0.2.24/kaptan-benim.apk",
-  "mandatory": true,
-  "version_name": "0.2.24",
-  "release_notes": "Kramponlar sayfasındaki beş ürünün yanına özgün, logosuz ve farklı renklerde krampon görselleri eklendi.\nTek görsel atlası kullanılarak küçük ürün görselleri yerleştirildi; satır hizaları ve metin boşlukları düzenlendi."
+  "apk_size": 223970260,
+  "release_notes": "Ekip, Araç, Ev ve Eşya sayfalarına toplam 19 özgün ürün görseli eklendi.\nMenajer ve antrenör portreleri, araçlar, evler ve eşyalar tek ortak görsel atlasından gösteriliyor.\nEkipte altı ürünün tamamı için satır aralıkları ve dokunma alanları düzenlendi.",
+  "apk_url": "https://github.com/deepseekturkey-rgb/kaptan-benim-releases/releases/download/v0.2.25/kaptan-benim.apk",
+  "version_name": "0.2.25",
+  "version_code": 27,
+  "sha256": "2846031be112aed09a0e7290752d4806d75d76d63d045fdb101a630da0173957",
+  "mandatory": true
 }

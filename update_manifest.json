@@ -1,9 +1,9 @@
 {
-  "version_code": 41,
-  "version_name": "0.2.39",
-  "apk_url": "https://github.com/deepseekturkey-rgb/kaptan-benim-releases/releases/download/v0.2.39/kaptan-benim.apk",
-  "release_notes": "Uygulama açıldığında ve telefona geri dönüldüğünde güncelleme durumu yeniden kontrol edilir. Kurulum tamamlanmadıysa güncelleme penceresi tekrar gösterilir; ağ hatalarında kontrol en geç bir dakika içinde yinelenir.",
+  "version_code": 42,
+  "version_name": "0.2.40",
+  "apk_url": "https://github.com/deepseekturkey-rgb/kaptan-benim-releases/releases/download/v0.2.40/kaptan-benim.apk",
+  "release_notes": "Güncelleme kontrolü yeni proje klasör yapısına göre düzeltildi. Android APK manifest adresini doğru konumdan alır; adres dosyası eksik olsa da oyun açılışta ve bildirim geldiğinde güncellemeyi kontrol eder. Uygulanmamış güncelleme penceresi yeniden gösterilir.",
   "mandatory": true,
-  "apk_size": 282844056,
-  "sha256": "36cb6479fac79a114d1027931ba221cfac89018f3f4b4d9c9a86d4f01623b68c"
+  "apk_size": 282844590,
+  "sha256": "372de0d54f5b1b75bc2d1b6f4faa5854d4051487f94b421f22ee13bd5950eb4c"
 }

@@ -1,9 +1,9 @@
 {
-  "version_name": "0.2.31",
-  "version_code": 33,
-  "release_notes": "Araç kataloğu 10, mülk kataloğu 10 ve eşya kataloğu 12 ürüne genişletildi; ürünler ucuzdan pahalıya sıralandı.\nSpor araba, lüks SUV, makam aracı, süper spor, formula yarış aracı ve yat; loft, villa, malikâne, penthouse, plaza ve şato eklendi.\nAkıllı saat, kamera, drone, lüks saat, piyano, ev sineması ve sanat koleksiyonu eklendi; yeni ürün görselleri hazırlandı.\nKataloglara sayfalama ve ürün başına lüks puanı eklendi. Lüks artık sahip olunan benzersiz ürünlerin değerinden hesaplanıyor.\nOnline odada, maçta ve rakip profillerinde lüks puanı ile araç/mülk/eşya sayıları gösteriliyor.",
+  "sha256": "809b01e5201037cbf4104beeae4c3ae61f26876a5e420afaf5628666571cfa83",
+  "apk_size": 246867237,
+  "apk_url": "https://github.com/deepseekturkey-rgb/kaptan-benim-releases/releases/download/v0.2.32/kaptan-benim.apk",
+  "version_code": 34,
   "mandatory": true,
-  "apk_size": 225611260,
-  "sha256": "10bceb5152b86b04e13b24c57de71a39b38632a67b57abdb92b18ac1f4714aa8",
-  "apk_url": "https://github.com/deepseekturkey-rgb/kaptan-benim-releases/releases/download/v0.2.31/kaptan-benim.apk"
+  "release_notes": "Kumarhane ve sekiz mini oyun eklendi: Blackjack, Rulet, Slot, At Yarışı, Zar Düellosu, Çarkıfelek, Futbol Tombalası ve Altın Uçuş. Özgün görseller, oyunlara özel arka planlar, 19 saniyelik renkli at yarışı ve canlı konum takibi eklendi. Blubull enerji sistemi, arkadaşlık istekleri, sohbet ve engelleme güncellendi. Kullanılmayan NSS kaynakları paketten çıkarıldı. Yanlış kaynak klasöründen yayınlanma nedeniyle eksik kalan özellikler bu sürümde birleştirildi.",
+  "version_name": "0.2.32"
 }

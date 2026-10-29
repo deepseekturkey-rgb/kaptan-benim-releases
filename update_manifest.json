@@ -1,9 +1,9 @@
 {
-  "sha256": "d192fa20721ac568417ea33441518a35032f3be6df358b89198db4e8b7224257",
+  "apk_size": 291321659,
+  "sha256": "4c04d0da22333d77539343772cbc23cd264954f467c4612803e1ec257ffbb2b1",
   "mandatory": true,
-  "version_code": 49,
-  "apk_url": "https://github.com/deepseekturkey-rgb/kaptan-benim-releases/releases/download/v0.2.47/kaptan-benim.apk",
-  "apk_size": 291317396,
-  "release_notes": "Tek oyunculu maçlarda dokunma kontrolleri düzeltildi. Yedekteyken 1x/2x/3x maç hızı seçilebiliyor ve devre arasında DEVAM ET düğmesiyle ikinci yarı başlatılabiliyor. Aynı dokunuşun iki kez işlenmesi engellendi.\nAktif krampon KULLANIMDA olarak gösteriliyor; süresi devam ederken aynı krampon tekrar satın alınamıyor.",
-  "version_name": "0.2.47"
+  "release_notes": "50 forvet sahnesi yenilendi: yakın bitiriş, ceza sahası, orta mesafe, uzak şut, çok uzak şut, dar açı, kontra atak, ara pası, duvar pası ve tek başına forvet. Her hücum tipinde sağ, sol ve merkez varyasyonları bulunuyor.\nForvet sahnelerinde kaleci kale çizgisinin önüne alındı. Tek başına forvet sahneleri dahil tüm 50 sahne maçlarda kullanılabiliyor. Sahneler, bir tur tamamlanmadan tekrar etmeyen karışık sırayla seçiliyor.",
+  "version_name": "0.2.48",
+  "version_code": 50,
+  "apk_url": "https://github.com/deepseekturkey-rgb/kaptan-benim-releases/releases/download/v0.2.48/kaptan-benim.apk"
 }

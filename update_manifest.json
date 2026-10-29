@@ -1,9 +1,9 @@
 {
-  "version_code": 37,
-  "version_name": "0.2.35",
-  "apk_url": "https://github.com/deepseekturkey-rgb/kaptan-benim-releases/releases/download/v0.2.35/kaptan-benim.apk",
-  "release_notes": "Yeni 100 pozisyon seçeneği (50 orta saha, 50 forvet), milli takım çağrısı ve Şampiyonlar Ligi, UEFA Avrupa Ligi ve Konferans Ligi. Kumarhane mini oyunları ve tasarım iyileştirmeleri.",
+  "version_code": 38,
+  "version_name": "0.2.36",
+  "apk_url": "https://github.com/deepseekturkey-rgb/kaptan-benim-releases/releases/download/v0.2.36/kaptan-benim.apk",
+  "release_notes": "Güncelleme teklifi ve kurulu sürüm algılama düzeltildi. Yeni 100 pozisyon seçeneği (50 orta saha, 50 forvet), milli takım çağrısı ve Şampiyonlar Ligi, UEFA Avrupa Ligi ve Konferans Ligi. Kumarhane mini oyunları ve tasarım iyileştirmeleri.",
   "mandatory": true,
-  "apk_size": 271838277,
-  "sha256": "36144685cb1925dfdc6e6ca9a7c2d1c78448531e624df141d6e1f5b6eede1475"
+  "apk_size": 271838501,
+  "sha256": "0cc09de8a63612a85dcbb7077117048e00b5eb318e041663fa56ac7e416daee0"
 }

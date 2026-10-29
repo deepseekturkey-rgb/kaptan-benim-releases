@@ -1,9 +1,9 @@
 {
-  "version_code": 40,
-  "version_name": "0.2.38",
-  "apk_url": "https://github.com/deepseekturkey-rgb/kaptan-benim-releases/releases/download/v0.2.38/kaptan-benim.apk",
-  "release_notes": "Kumarhane bildirimleri artık düğmelerin üstüne gelmiyor. Kumarhane oyunlarındaki düğmeler, seçim durumları ve aksiyon görünümü yeniden düzenlendi.",
+  "version_code": 41,
+  "version_name": "0.2.39",
+  "apk_url": "https://github.com/deepseekturkey-rgb/kaptan-benim-releases/releases/download/v0.2.39/kaptan-benim.apk",
+  "release_notes": "Uygulama açıldığında ve telefona geri dönüldüğünde güncelleme durumu yeniden kontrol edilir. Kurulum tamamlanmadıysa güncelleme penceresi tekrar gösterilir; ağ hatalarında kontrol en geç bir dakika içinde yinelenir.",
   "mandatory": true,
-  "apk_size": 282842608,
-  "sha256": "cd81a53e5d409509de0d761ab9fb9a447bc15514707dc5cb48a14fc1d22366d3"
+  "apk_size": 282844056,
+  "sha256": "36cb6479fac79a114d1027931ba221cfac89018f3f4b4d9c9a86d4f01623b68c"
 }

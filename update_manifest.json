@@ -1,9 +1,9 @@
 {
-  "version_code": 45,
-  "sha256": "5a118d1227cf1879237de3a3c57ad32a2b7016a31e1511919b4ece109194f4ba",
-  "version_name": "0.2.43",
-  "mandatory": true,
-  "apk_size": 282845262,
-  "apk_url": "https://github.com/deepseekturkey-rgb/kaptan-benim-releases/releases/download/v0.2.43/kaptan-benim.apk",
-  "release_notes": "Oyun açılışında ve bildirim sonrasında güncelleme kontrolü iyileştirildi. Güncel oyunu uygulama içindeki GÜNCELLE düğmesiyle indirip yükleyebilirsin."
+  "apk_url": "https://github.com/deepseekturkey-rgb/kaptan-benim-releases/releases/download/v0.2.44/kaptan-benim.apk",
+  "version_code": 46,
+  "version_name": "0.2.44",
+  "apk_size": 282863951,
+  "sha256": "0c8fe3006885c60977a22f2b99d5775a4b7aa0ff3b640603b095897d1eb5a147",
+  "release_notes": "Tüm liglerin puan durumları, lig seçimi, fikstür ve maç sonuçları eklendi.\nŞampiyonlar Ligi adayları mavi, Avrupa Ligi adayları sarı, Konferans Ligi adayları koyu yeşil gösteriliyor.\nDiğer liglerin sonuçları kariyer haftasıyla ilerliyor; sezon sonu Avrupa kupası adaylıkları sıralamaya bağlandı.\nMaç içindeki enerji tüketimi artırıldı.\nKökenini Seç ekranında ülke listesinin yazı tipi yükü azaltıldı.",
+  "mandatory": true
 }

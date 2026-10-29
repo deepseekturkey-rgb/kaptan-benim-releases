@@ -1,9 +1,9 @@
 {
-  "sha256": "809b01e5201037cbf4104beeae4c3ae61f26876a5e420afaf5628666571cfa83",
-  "apk_size": 246867237,
-  "apk_url": "https://github.com/deepseekturkey-rgb/kaptan-benim-releases/releases/download/v0.2.32/kaptan-benim.apk",
-  "version_code": 34,
   "mandatory": true,
-  "release_notes": "Kumarhane ve sekiz mini oyun eklendi: Blackjack, Rulet, Slot, At Yarışı, Zar Düellosu, Çarkıfelek, Futbol Tombalası ve Altın Uçuş. Özgün görseller, oyunlara özel arka planlar, 19 saniyelik renkli at yarışı ve canlı konum takibi eklendi. Blubull enerji sistemi, arkadaşlık istekleri, sohbet ve engelleme güncellendi. Kullanılmayan NSS kaynakları paketten çıkarıldı. Yanlış kaynak klasöründen yayınlanma nedeniyle eksik kalan özellikler bu sürümde birleştirildi.",
-  "version_name": "0.2.32"
+  "version_code": 35,
+  "version_name": "0.2.33",
+  "sha256": "13766c366cb6cdbb41eefd1a1d32109a6c61d6bf78cf3281404f0abb84730e34",
+  "release_notes": "Kaptan Spor Haberler: maç sonu gazete ekranı, özgün manşetler ve 10 farklı maç görseli eklendi.",
+  "apk_size": 271773639,
+  "apk_url": "https://github.com/deepseekturkey-rgb/kaptan-benim-releases/releases/download/v0.2.33/kaptan-benim.apk"
 }

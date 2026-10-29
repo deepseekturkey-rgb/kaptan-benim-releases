@@ -1,9 +1,9 @@
 {
-  "apk_size": 291321659,
-  "sha256": "4c04d0da22333d77539343772cbc23cd264954f467c4612803e1ec257ffbb2b1",
+  "apk_url": "https://github.com/deepseekturkey-rgb/kaptan-benim-releases/releases/download/v0.2.49/kaptan-benim.apk",
+  "version_code": 51,
   "mandatory": true,
-  "release_notes": "50 forvet sahnesi yenilendi: yakın bitiriş, ceza sahası, orta mesafe, uzak şut, çok uzak şut, dar açı, kontra atak, ara pası, duvar pası ve tek başına forvet. Her hücum tipinde sağ, sol ve merkez varyasyonları bulunuyor.\nForvet sahnelerinde kaleci kale çizgisinin önüne alındı. Tek başına forvet sahneleri dahil tüm 50 sahne maçlarda kullanılabiliyor. Sahneler, bir tur tamamlanmadan tekrar etmeyen karışık sırayla seçiliyor.",
-  "version_name": "0.2.48",
-  "version_code": 50,
-  "apk_url": "https://github.com/deepseekturkey-rgb/kaptan-benim-releases/releases/download/v0.2.48/kaptan-benim.apk"
+  "version_name": "0.2.49",
+  "apk_size": 291324970,
+  "release_notes": "50 orta saha sahnesi yenilendi: kısa pas, uzun pas, kanat çıkışı, merkezden oyun, pres altında pas, dar alan, kanat değiştirme, kontra başlangıcı, geriye destek ve savunmadan çıkış. Sağ, sol ve merkez seçenekleriyle her sahne için iki ayrı kamera yerleşimi hazırlandı; toplam 100 orta saha yerleşimi bulunuyor.\nOyuncu aralıkları, pas yolları ve ofsayt konumları kontrol edildi. Sahneler bir tur tamamlanmadan tekrar etmeyen karışık sırayla seçiliyor.\nÖnceki güncellemedeki 50 forvet sahnesi ve kale çizgisinin önüne alınan kaleci düzeni bu sürümde de bulunuyor.",
+  "sha256": "0f9073906581091622e6bdb3a91a8914f9d860d31f1f72a456ca919bdee08be7"
 }

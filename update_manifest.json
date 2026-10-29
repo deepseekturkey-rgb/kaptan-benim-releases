@@ -1,9 +1,9 @@
 {
-  "apk_url": "https://github.com/deepseekturkey-rgb/kaptan-benim-releases/releases/download/v0.2.49/kaptan-benim.apk",
-  "version_code": 51,
+  "sha256": "14ceec4b3649a493adfb5f2b069eeb6000dc1ac804116477500a1546df0776e9",
+  "version_code": 52,
   "mandatory": true,
-  "version_name": "0.2.49",
-  "apk_size": 291324970,
-  "release_notes": "50 orta saha sahnesi yenilendi: kısa pas, uzun pas, kanat çıkışı, merkezden oyun, pres altında pas, dar alan, kanat değiştirme, kontra başlangıcı, geriye destek ve savunmadan çıkış. Sağ, sol ve merkez seçenekleriyle her sahne için iki ayrı kamera yerleşimi hazırlandı; toplam 100 orta saha yerleşimi bulunuyor.\nOyuncu aralıkları, pas yolları ve ofsayt konumları kontrol edildi. Sahneler bir tur tamamlanmadan tekrar etmeyen karışık sırayla seçiliyor.\nÖnceki güncellemedeki 50 forvet sahnesi ve kale çizgisinin önüne alınan kaleci düzeni bu sürümde de bulunuyor.",
-  "sha256": "0f9073906581091622e6bdb3a91a8914f9d860d31f1f72a456ca919bdee08be7"
+  "release_notes": "Şampiyonluk kupaları ve görselli tebrik penceresi eklendi. 70 ülkedeki 140 ligde sezonu lider bitiren takım kupasını kazanıyor; Şampiyonlar Ligi, Avrupa Ligi, Konferans Ligi ve Milli Takımlar Kupası şampiyonlukları kendi kupa görselleriyle kutlanıyor.\nKupalar tek bir görselden kırpılarak oyuna eklendi. Tebrik mesajları takım, ülke, lig ve sezon bilgisine göre hazırlanıyor. Milli maç elemelerinde veya grup maçındaki sıradan galibiyetlerde kupa verilmiyor.\nKazanılan kupalar Kariyer > Kupalar bölümünde görselleriyle saklanıyor. Tüm Kupalarım ekranından geçmiş şampiyonluklara bakılabiliyor. Onaylanmadan kapanan tebrik penceresi kariyere geri dönüldüğünde yeniden açılıyor; aynı şampiyonluk birden fazla kez kaydedilmiyor.\r\n",
+  "apk_size": 294347199,
+  "apk_url": "https://github.com/deepseekturkey-rgb/kaptan-benim-releases/releases/download/v0.2.50/kaptan-benim.apk",
+  "version_name": "0.2.50"
 }

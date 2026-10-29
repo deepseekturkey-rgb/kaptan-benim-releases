@@ -1,9 +1,9 @@
 {
-  "sha256": "14ceec4b3649a493adfb5f2b069eeb6000dc1ac804116477500a1546df0776e9",
-  "version_code": 52,
+  "version_name": "0.2.51",
+  "apk_url": "https://github.com/deepseekturkey-rgb/kaptan-benim-releases/releases/download/v0.2.51/kaptan-benim.apk",
+  "release_notes": "Kariyer maçlarına sağ ve sol köşeden korner sistemi eklendi. Ön direk, arka direk, merkez, kısa korner, kafa vuruşu ve vole düzenleriyle toplam 12 korner yerleşimi bulunuyor.\nKorneri kullanırken takım arkadaşını seçip ortanı zamanlayabilir, topa temas aşamasında falso verebilirsin. Ceza sahasında beklediğin sahnelerde takım arkadaşının ortasından sonra bitirişi kafa veya voleyle yapabilirsin.\nSavunmanın son dokunduğu top kale çizgisinden dışarı çıkarsa çıktığı taraftan korner kazanılıyor. Kalecinin tuttuğu top ve taça çıkan top korner sayılmıyor. Kornerden doğrudan gelen ilk pasta ofsayt uygulanmıyor; devamındaki paslarda normal kurallar geçerli.\nDoğrudan kornerden gol ve korner ortasından asist destekleniyor. Hatalı ortalarda rakibin kontra atak fırsatı oluşabiliyor. Korner yerleşimleri her tarafta tekrar etmeden dönüşümlü seçiliyor.\r\nKorner görünümü gönderilen NSS video referansına göre yeniden düzenlendi: özgün NSS çimi ve GoalCS2/GoalCS2Rev kale görselleri kullanılıyor. Kale üst yan bölümde, korner noktası alt köşede; sağ kornerde görünüm aynalanıyor. Saha çizgileri, top ve dokunma hedefleri aynı kamera dönüşümünü kullanıyor.\r\nSaha türüne özel korner zeminleri eklendi. Koyu çimli maçlarda koyu çim, hafif karlı maçlarda mevcut karlı saha dokusuna uygun kar kaplı korner zemini kullanılıyor. Seçilen saha korner sırasında değişmiyor; sağ ve sol kornerlerde aynı zemin korunuyor.",
   "mandatory": true,
-  "release_notes": "Şampiyonluk kupaları ve görselli tebrik penceresi eklendi. 70 ülkedeki 140 ligde sezonu lider bitiren takım kupasını kazanıyor; Şampiyonlar Ligi, Avrupa Ligi, Konferans Ligi ve Milli Takımlar Kupası şampiyonlukları kendi kupa görselleriyle kutlanıyor.\nKupalar tek bir görselden kırpılarak oyuna eklendi. Tebrik mesajları takım, ülke, lig ve sezon bilgisine göre hazırlanıyor. Milli maç elemelerinde veya grup maçındaki sıradan galibiyetlerde kupa verilmiyor.\nKazanılan kupalar Kariyer > Kupalar bölümünde görselleriyle saklanıyor. Tüm Kupalarım ekranından geçmiş şampiyonluklara bakılabiliyor. Onaylanmadan kapanan tebrik penceresi kariyere geri dönüldüğünde yeniden açılıyor; aynı şampiyonluk birden fazla kez kaydedilmiyor.\r\n",
-  "apk_size": 294347199,
-  "apk_url": "https://github.com/deepseekturkey-rgb/kaptan-benim-releases/releases/download/v0.2.50/kaptan-benim.apk",
-  "version_name": "0.2.50"
+  "apk_size": 320560685,
+  "version_code": 53,
+  "sha256": "7e3bc4603621cd3d306d9d67b758ce3f8c87eb1eee6ab0ea34b5b15d3b7f1192"
 }

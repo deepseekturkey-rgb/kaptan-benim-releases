@@ -1,9 +1,9 @@
 {
-  "version_name": "0.2.45",
-  "sha256": "c1f9abf0e00447e6c592f0cb5541b9a622d96678a5dffa3b65167ff1f42b740e",
+  "apk_size": 291314169,
+  "sha256": "6cf2fb50c8d95e8962542bb59d8ee1a336aaa91e1065bfe4519d6f5b4b556616",
   "mandatory": true,
-  "apk_url": "https://github.com/deepseekturkey-rgb/kaptan-benim-releases/releases/download/v0.2.45/kaptan-benim.apk",
-  "version_code": 47,
-  "release_notes": "Uçak oyununda tek dokunuşun iki kez işlenerek uçuşu hemen kapatması düzeltildi. Uçuşa Başla ve Kazancı Al artık ayrı dokunuşlarla çalışıyor.\nBlackjack'te iki tarafın ilk dağıtımda 21 alması ve kasanın Blackjack yapması durumlarındaki sonuç hesabı düzeltildi.",
-  "apk_size": 290818756
+  "version_name": "0.2.46",
+  "apk_url": "https://github.com/deepseekturkey-rgb/kaptan-benim-releases/releases/download/v0.2.46/kaptan-benim.apk",
+  "release_notes": "Aktif krampon mağazada KULLANIMDA olarak gösteriliyor. Kullanım süresi devam ederken aynı krampon tekrar satın alınamıyor; tekrar dokunulduğunda altın kesilmiyor ve kalan maç sayısı sıfırlanmıyor. Süresi biten krampon yeniden satın alınabiliyor.",
+  "version_code": 48
 }

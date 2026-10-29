@@ -1,9 +1,9 @@
 {
+  "version_code": 36,
+  "apk_size": 271771695,
+  "sha256": "71b9e0ee6a3ff8978ab3bacbb433a0339e4c85bd840cdd289419ed3e50425e5d",
+  "apk_url": "https://github.com/deepseekturkey-rgb/kaptan-benim-releases/releases/download/v0.2.34/kaptan-benim.apk",
   "mandatory": true,
-  "version_code": 35,
-  "version_name": "0.2.33",
-  "sha256": "13766c366cb6cdbb41eefd1a1d32109a6c61d6bf78cf3281404f0abb84730e34",
-  "release_notes": "Kaptan Spor Haberler: maç sonu gazete ekranı, özgün manşetler ve 10 farklı maç görseli eklendi.",
-  "apk_size": 271773639,
-  "apk_url": "https://github.com/deepseekturkey-rgb/kaptan-benim-releases/releases/download/v0.2.33/kaptan-benim.apk"
+  "version_name": "0.2.34",
+  "release_notes": "Araç kataloğu 10, mülk kataloğu 10 ve eşya kataloğu 12 ürüne genişletildi; ürünler ucuzdan pahalıya sıralandı.\nSpor araba, lüks SUV, makam aracı, süper spor, formula yarış aracı ve yat; loft, villa, malikâne, penthouse, plaza ve şato eklendi.\nAkıllı saat, kamera, drone, lüks saat, piyano, ev sineması ve sanat koleksiyonu eklendi; yeni ürün görselleri hazırlandı.\nKataloglara sayfalama ve ürün başına lüks puanı eklendi. Lüks artık sahip olunan benzersiz ürünlerin değerinden hesaplanıyor.\nOnline odada, maçta ve rakip profillerinde lüks puanı ile araç/mülk/eşya sayıları gösteriliyor."
 }

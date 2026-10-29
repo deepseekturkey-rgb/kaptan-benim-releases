@@ -1,9 +1,9 @@
 {
-  "version_name": "0.2.42",
-  "sha256": "c838d56a48e5c00cdc662f65d9a64e5b8bd11f8b858dafd82fe68585760e4aab",
-  "release_notes": "son güncelleme 2135",
+  "version_code": 45,
+  "sha256": "5a118d1227cf1879237de3a3c57ad32a2b7016a31e1511919b4ece109194f4ba",
+  "version_name": "0.2.43",
   "mandatory": true,
-  "apk_url": "https://github.com/deepseekturkey-rgb/kaptan-benim-releases/releases/download/v0.2.42/kaptan-benim.apk",
-  "apk_size": 282844582,
-  "version_code": 44
+  "apk_size": 282845262,
+  "apk_url": "https://github.com/deepseekturkey-rgb/kaptan-benim-releases/releases/download/v0.2.43/kaptan-benim.apk",
+  "release_notes": "Oyun açılışında ve bildirim sonrasında güncelleme kontrolü iyileştirildi. Güncel oyunu uygulama içindeki GÜNCELLE düğmesiyle indirip yükleyebilirsin."
 }

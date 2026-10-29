@@ -1,9 +1,9 @@
 {
-  "apk_size": 291314169,
-  "sha256": "6cf2fb50c8d95e8962542bb59d8ee1a336aaa91e1065bfe4519d6f5b4b556616",
+  "sha256": "d192fa20721ac568417ea33441518a35032f3be6df358b89198db4e8b7224257",
   "mandatory": true,
-  "version_name": "0.2.46",
-  "apk_url": "https://github.com/deepseekturkey-rgb/kaptan-benim-releases/releases/download/v0.2.46/kaptan-benim.apk",
-  "release_notes": "Aktif krampon mağazada KULLANIMDA olarak gösteriliyor. Kullanım süresi devam ederken aynı krampon tekrar satın alınamıyor; tekrar dokunulduğunda altın kesilmiyor ve kalan maç sayısı sıfırlanmıyor. Süresi biten krampon yeniden satın alınabiliyor.",
-  "version_code": 48
+  "version_code": 49,
+  "apk_url": "https://github.com/deepseekturkey-rgb/kaptan-benim-releases/releases/download/v0.2.47/kaptan-benim.apk",
+  "apk_size": 291317396,
+  "release_notes": "Tek oyunculu maçlarda dokunma kontrolleri düzeltildi. Yedekteyken 1x/2x/3x maç hızı seçilebiliyor ve devre arasında DEVAM ET düğmesiyle ikinci yarı başlatılabiliyor. Aynı dokunuşun iki kez işlenmesi engellendi.\nAktif krampon KULLANIMDA olarak gösteriliyor; süresi devam ederken aynı krampon tekrar satın alınamıyor.",
+  "version_name": "0.2.47"
 }

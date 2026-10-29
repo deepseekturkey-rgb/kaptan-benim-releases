@@ -1,9 +1,9 @@
 {
-  "apk_url": "https://github.com/deepseekturkey-rgb/kaptan-benim-releases/releases/download/v0.2.44/kaptan-benim.apk",
-  "version_code": 46,
-  "version_name": "0.2.44",
-  "apk_size": 282863951,
-  "sha256": "0c8fe3006885c60977a22f2b99d5775a4b7aa0ff3b640603b095897d1eb5a147",
-  "release_notes": "Tüm liglerin puan durumları, lig seçimi, fikstür ve maç sonuçları eklendi.\nŞampiyonlar Ligi adayları mavi, Avrupa Ligi adayları sarı, Konferans Ligi adayları koyu yeşil gösteriliyor.\nDiğer liglerin sonuçları kariyer haftasıyla ilerliyor; sezon sonu Avrupa kupası adaylıkları sıralamaya bağlandı.\nMaç içindeki enerji tüketimi artırıldı.\nKökenini Seç ekranında ülke listesinin yazı tipi yükü azaltıldı.",
-  "mandatory": true
+  "version_name": "0.2.45",
+  "sha256": "c1f9abf0e00447e6c592f0cb5541b9a622d96678a5dffa3b65167ff1f42b740e",
+  "mandatory": true,
+  "apk_url": "https://github.com/deepseekturkey-rgb/kaptan-benim-releases/releases/download/v0.2.45/kaptan-benim.apk",
+  "version_code": 47,
+  "release_notes": "Uçak oyununda tek dokunuşun iki kez işlenerek uçuşu hemen kapatması düzeltildi. Uçuşa Başla ve Kazancı Al artık ayrı dokunuşlarla çalışıyor.\nBlackjack'te iki tarafın ilk dağıtımda 21 alması ve kasanın Blackjack yapması durumlarındaki sonuç hesabı düzeltildi.",
+  "apk_size": 290818756
 }

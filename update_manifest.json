@@ -1,9 +1,9 @@
 {
-  "mandatory": true,
-  "release_notes": "Araç kataloğu 10, mülk kataloğu 10 ve eşya kataloğu 12 ürüne genişletildi; ürünler ucuzdan pahalıya sıralandı.\nSpor araba, lüks SUV, makam aracı, süper spor, formula yarış aracı ve yat; loft, villa, malikâne, penthouse, plaza ve şato eklendi.\nAkıllı saat, kamera, drone, lüks saat, piyano, ev sineması ve sanat koleksiyonu eklendi; yeni ürün görselleri hazırlandı.\nKataloglara sayfalama ve ürün başına lüks puanı eklendi. Lüks artık sahip olunan benzersiz ürünlerin değerinden hesaplanıyor.\nOnline odada, maçta ve rakip profillerinde lüks puanı ile araç/mülk/eşya sayıları gösteriliyor.",
-  "sha256": "c97c2d7e2e12dcbb9280476f40258e00a35de08823179d2e1d2904815dd3e195",
   "version_code": 37,
-  "apk_size": 271786618,
   "version_name": "0.2.35",
-  "apk_url": "https://github.com/deepseekturkey-rgb/kaptan-benim-releases/releases/download/v0.2.35/kaptan-benim.apk"
+  "apk_url": "https://github.com/deepseekturkey-rgb/kaptan-benim-releases/releases/download/v0.2.35/kaptan-benim.apk",
+  "release_notes": "Yeni 100 pozisyon seçeneği (50 orta saha, 50 forvet), milli takım çağrısı ve Şampiyonlar Ligi, UEFA Avrupa Ligi ve Konferans Ligi. Kumarhane mini oyunları ve tasarım iyileştirmeleri.",
+  "mandatory": true,
+  "apk_size": 271838277,
+  "sha256": "36144685cb1925dfdc6e6ca9a7c2d1c78448531e624df141d6e1f5b6eede1475"
 }
